@@ -1,0 +1,3 @@
+include ':anytaghelper'
+include ':app'
+rootProject.name = "AnyTagHelperExample"
