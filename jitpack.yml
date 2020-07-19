@@ -1,2 +1,2 @@
 install:
-  ./anytaghelper/gradlew clean install
+  cd anytaghelper && gradle install
