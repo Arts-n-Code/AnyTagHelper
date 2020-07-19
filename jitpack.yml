@@ -1,2 +1,2 @@
 install:
-  cd artsncode && ../gradlew install
+  cd anytaghelper && ../gradlew install
