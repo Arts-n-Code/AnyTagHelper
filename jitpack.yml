@@ -1,2 +1,2 @@
 install:
-  ../gradlew install
+  cd artsncode && ../gradlew install
