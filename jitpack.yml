@@ -1,0 +1,2 @@
+install:
+  ./anytaghelper/gradlew clean install
